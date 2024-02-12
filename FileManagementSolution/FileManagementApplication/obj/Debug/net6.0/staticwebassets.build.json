@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7fNTHsfnYLmBcahynhHKciJHAeOqsMweIT9s6oT1ELU=",
+  "Source": "FileManagementApplication",
+  "BasePath": "_content/FileManagementApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

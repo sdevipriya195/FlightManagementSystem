@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FileManagementApplication.props" />
+</Project>
